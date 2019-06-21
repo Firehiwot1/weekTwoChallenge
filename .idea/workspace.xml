@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63d48786-d21f-4716-8e18-909a4dc19d7d" name="Default" comment="" />
+    <list default="true" id="63d48786-d21f-4716-8e18-909a4dc19d7d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/WeekTwoChallenge.java" afterPath="$PROJECT_DIR$/src/WeekTwoChallenge.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +18,16 @@
       <file leaf-file-name="WeekTwoChallenge.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WeekTwoChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="816">
+              <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#218#226#0" expanded="true" />
-                <element signature="e#276#284#0" expanded="true" />
-                <element signature="e#334#342#0" expanded="true" />
-                <element signature="e#393#401#0" expanded="true" />
-                <element signature="e#452#460#0" expanded="true" />
-                <element signature="e#513#521#0" expanded="true" />
+                <element signature="e#291#299#0" expanded="true" />
+                <element signature="e#349#357#0" expanded="true" />
+                <element signature="e#407#415#0" expanded="true" />
+                <element signature="e#466#474#0" expanded="true" />
+                <element signature="e#525#533#0" expanded="true" />
+                <element signature="e#586#594#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,6 +41,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -63,6 +69,7 @@
     <option name="width" value="1004" />
     <option name="height" value="357" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -228,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561123297708</updated>
-      <workItem from="1561123322317" duration="20954000" />
+      <workItem from="1561123322317" duration="22217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20954000" />
+    <option name="totallyTimeSpent" value="22217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -247,7 +254,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -284,16 +291,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/WeekTwoChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="816">
+          <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#218#226#0" expanded="true" />
-            <element signature="e#276#284#0" expanded="true" />
-            <element signature="e#334#342#0" expanded="true" />
-            <element signature="e#393#401#0" expanded="true" />
-            <element signature="e#452#460#0" expanded="true" />
-            <element signature="e#513#521#0" expanded="true" />
+            <element signature="e#291#299#0" expanded="true" />
+            <element signature="e#349#357#0" expanded="true" />
+            <element signature="e#407#415#0" expanded="true" />
+            <element signature="e#466#474#0" expanded="true" />
+            <element signature="e#525#533#0" expanded="true" />
+            <element signature="e#586#594#0" expanded="true" />
           </folding>
         </state>
       </provider>
